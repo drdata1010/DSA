@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/BinarySearch/SearchInSortedRotatedArray.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.MoveAllZeroesToEnd.executor": "Run",
     "Application.RemoveDupesFromSortedArray.executor": "Run",
+    "Application.SearchInSortedRotatedArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -74,12 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731847212243</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Revision 2">
+      <option name="closed" value="true" />
+      <created>1731851569244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731851569244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Revision 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision 1" />
+    <MESSAGE value="Revision 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision 2" />
   </component>
 </project>
