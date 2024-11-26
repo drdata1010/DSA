@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/LongestSubArrHavingSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/NumAppearsOnesOthersOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/BinarySearch/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printSubsequenceSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printSubsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,8 @@
     "Application.SortColors.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.printSubsequenceSumK.executor": "Run",
+    "Application.printSubsequences.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732020311251</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Revision">
+      <option name="closed" value="true" />
+      <created>1732317057151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732317057151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +118,7 @@
     <MESSAGE value="Revision 1" />
     <MESSAGE value="Revision 2" />
     <MESSAGE value="TrappingRainWater with space" />
-    <option name="LAST_COMMIT_MESSAGE" value="TrappingRainWater with space" />
+    <MESSAGE value="Revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision" />
   </component>
 </project>
