@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/BinarySearch/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printSubsequenceSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/MedianOfTwoSortedArrs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/SubArraySumZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/countSubsequenceSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printOneSubseqSumK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +44,12 @@
     "Application.NumAppearsOnesOthersOne.executor": "Run",
     "Application.RemoveDupesFromSortedArray.executor": "Run",
     "Application.SearchInSortedRotatedArray.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.SortColors.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.countSubsequenceSumK.executor": "Run",
+    "Application.printOneSubseqSumK.executor": "Run",
     "Application.printSubsequenceSumK.executor": "Run",
     "Application.printSubsequences.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -110,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732317057151</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Revision">
+      <option name="closed" value="true" />
+      <created>1732631953025</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732631953025</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
