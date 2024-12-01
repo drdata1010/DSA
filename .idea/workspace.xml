@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/MedianOfTwoSortedArrs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/SubArraySumZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/countSubsequenceSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/printOneSubseqSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/SuperReducedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/TimeConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IsAnagram.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
     "Application.LongestSubArrHavingSumK.executor": "Run",
     "Application.MaxConsecutiveOnes.executor": "Run",
     "Application.MissingNumber.executor": "Run",
@@ -46,6 +48,8 @@
     "Application.SearchInSortedRotatedArray.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.SortColors.executor": "Run",
+    "Application.SubArraySumZero.executor": "Run",
+    "Application.TimeConversion.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.countSubsequenceSumK.executor": "Run",
@@ -122,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732631953025</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Revision">
+      <option name="closed" value="true" />
+      <created>1732949041444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732949041444</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
