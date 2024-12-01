@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="Revision">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/IsAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/SuperReducedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/TimeConversion.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="01/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/SmallSubSumMoreThanK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +43,7 @@
     "Application.NumAppearsOnesOthersOne.executor": "Run",
     "Application.RemoveDupesFromSortedArray.executor": "Run",
     "Application.SearchInSortedRotatedArray.executor": "Run",
+    "Application.SmallSubSumMoreThanK.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.SortColors.executor": "Run",
     "Application.SubArraySumZero.executor": "Run",
@@ -134,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732949041444</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="01/12/24">
+      <option name="closed" value="true" />
+      <created>1733062882239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733062882239</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +149,7 @@
     <MESSAGE value="Revision 2" />
     <MESSAGE value="TrappingRainWater with space" />
     <MESSAGE value="Revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision" />
+    <MESSAGE value="01/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="01/12/24" />
   </component>
 </project>
