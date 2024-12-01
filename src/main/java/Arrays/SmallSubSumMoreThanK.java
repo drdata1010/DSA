@@ -10,7 +10,7 @@ public class SmallSubSumMoreThanK {
         for(int right = 0; right < n; right++){
             //add current to currSUm
             currSum += arr[right];
-
+            //maintain sum > k and reduce window as much as possible
             while(currSum > k){
                 smallestLength = Math.min(smallestLength, right - left + 1);
                 currSum -= arr[left];
