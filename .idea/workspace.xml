@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="01/12/24">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/LongestAlternatingSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/PreviousGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/AnagramSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/longestDistinctSubstring.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="07/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/PreviousSmallerElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +43,10 @@
     "Application.MissingNumber.executor": "Run",
     "Application.MoveAllZeroesToEnd.executor": "Run",
     "Application.NextGreaterElement.executor": "Run",
+    "Application.NextSmallerElement.executor": "Run",
     "Application.NumAppearsOnesOthersOne.executor": "Run",
     "Application.PreviousGreaterElement.executor": "Run",
+    "Application.PreviousSmallerElement.executor": "Run",
     "Application.RemoveDupesFromSortedArray.executor": "Run",
     "Application.SearchInSortedRotatedArray.executor": "Run",
     "Application.SmallSubSumMoreThanK.executor": "Run",
@@ -166,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733076284352</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="07/12/24">
+      <option name="closed" value="true" />
+      <created>1733580799782</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733580799782</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,7 +181,8 @@
     <MESSAGE value="TrappingRainWater with space" />
     <MESSAGE value="Revision" />
     <MESSAGE value="01/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="01/12/24" />
+    <MESSAGE value="07/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="07/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
