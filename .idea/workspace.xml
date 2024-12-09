@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="07/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/PreviousSmallerElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="08/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/kthPermutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.countSubsequenceSumK.executor": "Debug",
+    "Application.kthPermutation.executor": "Run",
     "Application.printOneSubseqSumK.executor": "Run",
     "Application.printSubsequenceSumK.executor": "Run",
     "Application.printSubsequences.executor": "Run",
@@ -171,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733580799782</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="08/12/24">
+      <option name="closed" value="true" />
+      <created>1733628356816</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733628356816</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,7 +189,8 @@
     <MESSAGE value="Revision" />
     <MESSAGE value="01/12/24" />
     <MESSAGE value="07/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="07/12/24" />
+    <MESSAGE value="08/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
