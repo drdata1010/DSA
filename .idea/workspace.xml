@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="08/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/kthPermutation.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="09/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListSolns/ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/ProductSumSpecialArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
     "Application.NumAppearsOnesOthersOne.executor": "Run",
     "Application.PreviousGreaterElement.executor": "Run",
     "Application.PreviousSmallerElement.executor": "Run",
+    "Application.ProductSumSpecialArray.executor": "Run",
     "Application.RemoveDupesFromSortedArray.executor": "Run",
     "Application.SearchInSortedRotatedArray.executor": "Run",
     "Application.SmallSubSumMoreThanK.executor": "Run",
@@ -55,7 +58,7 @@
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.countSubsequenceSumK.executor": "Debug",
-    "Application.kthPermutation.executor": "Run",
+    "Application.kthPermutation.executor": "Debug",
     "Application.printOneSubseqSumK.executor": "Run",
     "Application.printSubsequenceSumK.executor": "Run",
     "Application.printSubsequences.executor": "Run",
@@ -178,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733628356816</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="09/12/24">
+      <option name="closed" value="true" />
+      <created>1733715673571</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733715673571</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +201,8 @@
     <MESSAGE value="01/12/24" />
     <MESSAGE value="07/12/24" />
     <MESSAGE value="08/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="08/12/24" />
+    <MESSAGE value="09/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -217,6 +229,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/String/AnagramSearch.java</url>
           <line>8</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/kthPermutation.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
