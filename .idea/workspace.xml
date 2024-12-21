@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="18/12/24">
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="21/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GetCommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/KthSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/PreviousGreaterElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/PreviousGreaterElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,42 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnagramSearch.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.IsAnagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestConsecutiveSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubArrHavingSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxConsecutiveOnes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveAllZeroesToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextGreaterElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextSmallerElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumAppearsOnesOthersOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PreviousGreaterElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PreviousSmallerElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductSumSpecialArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDupesFromSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInSortedRotatedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallSubSumMoreThanK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortColors.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SubArraySumZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TimeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.countSubsequenceSumK.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.kthPermutation.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.printOneSubseqSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsequenceSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printSubsequences.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnagramSearch.executor": "Debug",
+    "Application.GetCommonElements.executor": "Run",
+    "Application.IsAnagram.executor": "Run",
+    "Application.KthLargest.executor": "Run",
+    "Application.KthSmallest.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.LongestSubArrHavingSumK.executor": "Run",
+    "Application.MaxConsecutiveOnes.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MoveAllZeroesToEnd.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
+    "Application.NextSmallerElement.executor": "Run",
+    "Application.NumAppearsOnesOthersOne.executor": "Run",
+    "Application.PreviousGreaterElement.executor": "Run",
+    "Application.PreviousSmallerElement.executor": "Run",
+    "Application.ProductSumSpecialArray.executor": "Run",
+    "Application.RemoveDupesFromSortedArray.executor": "Run",
+    "Application.SearchInSortedRotatedArray.executor": "Run",
+    "Application.SmallSubSumMoreThanK.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SortColors.executor": "Debug",
+    "Application.SubArraySumZero.executor": "Run",
+    "Application.TimeConversion.executor": "Run",
+    "Application.TrappingRainWater.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.countSubsequenceSumK.executor": "Debug",
+    "Application.kthPermutation.executor": "Debug",
+    "Application.printOneSubseqSumK.executor": "Run",
+    "Application.printSubsequenceSumK.executor": "Run",
+    "Application.printSubsequences.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -196,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734663579181</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="21/12/24">
+      <option name="closed" value="true" />
+      <created>1734761549589</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734761549589</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,7 +223,8 @@
     <MESSAGE value="08/12/24" />
     <MESSAGE value="09/12/24" />
     <MESSAGE value="18/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/12/24" />
+    <MESSAGE value="21/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
