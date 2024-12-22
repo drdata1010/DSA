@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="21/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/GetCommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/FindKClosestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/SortKSortedArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnagramSearch.executor": "Debug",
+    "Application.FindKClosestElements.executor": "Run",
     "Application.GetCommonElements.executor": "Run",
     "Application.IsAnagram.executor": "Run",
     "Application.KthLargest.executor": "Run",
@@ -57,6 +57,7 @@
     "Application.SmallSubSumMoreThanK.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.SortColors.executor": "Debug",
+    "Application.SortKSortedArr.executor": "Run",
     "Application.SubArraySumZero.executor": "Run",
     "Application.TimeConversion.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
@@ -209,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734761549589</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="21/12/24">
+      <option name="closed" value="true" />
+      <created>1734803632445</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734803632445</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
