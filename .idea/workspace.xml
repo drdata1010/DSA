@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="21/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/FindKClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/SortKSortedArr.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="22/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DP/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/TopKFrequentNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/GenerateNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/MaxAreaHistogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -36,13 +40,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnagramSearch.executor": "Debug",
+    "Application.Fibonacci.executor": "Run",
     "Application.FindKClosestElements.executor": "Run",
+    "Application.FrequencySort.executor": "Run",
+    "Application.GenerateNumbers.executor": "Run",
     "Application.GetCommonElements.executor": "Run",
     "Application.IsAnagram.executor": "Run",
     "Application.KthLargest.executor": "Run",
     "Application.KthSmallest.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
     "Application.LongestSubArrHavingSumK.executor": "Run",
+    "Application.MaxAreaHistogram.executor": "Debug",
     "Application.MaxConsecutiveOnes.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MoveAllZeroesToEnd.executor": "Run",
@@ -60,6 +68,7 @@
     "Application.SortKSortedArr.executor": "Run",
     "Application.SubArraySumZero.executor": "Run",
     "Application.TimeConversion.executor": "Run",
+    "Application.TopKFrequentNums.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.countSubsequenceSumK.executor": "Debug",
@@ -218,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734803632445</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="22/12/24">
+      <option name="closed" value="true" />
+      <created>1734832036269</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734832036269</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,7 +250,8 @@
     <MESSAGE value="09/12/24" />
     <MESSAGE value="18/12/24" />
     <MESSAGE value="21/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="21/12/24" />
+    <MESSAGE value="22/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="22/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -265,6 +283,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Recursion/kthPermutation.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stack/MaxAreaHistogram.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
