@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="22/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DP/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PriorityQueue/TopKFrequentNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/GenerateNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/MaxAreaHistogram.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="26/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DP/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnagramSearch.executor": "Debug",
+    "Application.ClimbingStairs.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FindKClosestElements.executor": "Run",
     "Application.FrequencySort.executor": "Run",
@@ -235,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734832036269</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="26/12/24">
+      <option name="closed" value="true" />
+      <created>1735181070178</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735181070178</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -251,7 +257,8 @@
     <MESSAGE value="18/12/24" />
     <MESSAGE value="21/12/24" />
     <MESSAGE value="22/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="22/12/24" />
+    <MESSAGE value="26/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="26/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,6 +280,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/String/Solution.java</url>
+          <line>28</line>
+          <properties class="String.Result" method="parseInput">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/String/AnagramSearch.java</url>
