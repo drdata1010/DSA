@@ -12,11 +12,8 @@ public class PreviousSmallerElement {
             while (!st.empty() && st.peek() >= arr[i]) {
                 st.pop();
             }
-            if (st.empty()) {
-                pse.add(-1);
-            } else {
-                pse.add(st.peek());
-            }
+            pse.add(st.empty() ? -1 : st.peek());
+
             st.push(arr[i]);
         }
         return pse;

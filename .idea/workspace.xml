@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="26/12/24">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DP/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String/Solution.java" afterDir="false" />
+    <list default="true" id="9cf2a714-4cd1-4137-bdf1-9884cede9262" name="Changes" comment="29/12/24">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/BackTracking/SubsetsArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/AsteroidsCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/StockSpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/LongestRepeatingCharsReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/String/NoSubStringContainingThreeChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/PreviousSmallerElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/PreviousSmallerElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnagramSearch.executor": "Debug",
+    "Application.AsteroidsCollision.executor": "Run",
     "Application.ClimbingStairs.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FindKClosestElements.executor": "Run",
@@ -47,6 +53,7 @@
     "Application.KthLargest.executor": "Run",
     "Application.KthSmallest.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.LongestRepeatingCharsReplacement.executor": "Run",
     "Application.LongestSubArrHavingSumK.executor": "Run",
     "Application.MaxAreaHistogram.executor": "Debug",
     "Application.MaxConsecutiveOnes.executor": "Run",
@@ -54,6 +61,7 @@
     "Application.MoveAllZeroesToEnd.executor": "Run",
     "Application.NextGreaterElement.executor": "Run",
     "Application.NextSmallerElement.executor": "Run",
+    "Application.NoSubStringContainingThreeChars.executor": "Run",
     "Application.NumAppearsOnesOthersOne.executor": "Run",
     "Application.PreviousGreaterElement.executor": "Run",
     "Application.PreviousSmallerElement.executor": "Run",
@@ -64,6 +72,7 @@
     "Application.Solution.executor": "Run",
     "Application.SortColors.executor": "Debug",
     "Application.SortKSortedArr.executor": "Run",
+    "Application.StockSpan.executor": "Run",
     "Application.SubArraySumZero.executor": "Run",
     "Application.TimeConversion.executor": "Run",
     "Application.TopKFrequentNums.executor": "Run",
@@ -241,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735181070178</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="29/12/24">
+      <option name="closed" value="true" />
+      <created>1735464743953</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735464743953</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +275,8 @@
     <MESSAGE value="21/12/24" />
     <MESSAGE value="22/12/24" />
     <MESSAGE value="26/12/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="26/12/24" />
+    <MESSAGE value="29/12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="29/12/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

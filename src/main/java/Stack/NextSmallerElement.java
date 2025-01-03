@@ -15,11 +15,8 @@ public class NextSmallerElement {
             while(!st.empty() && st.peek() >= arr[i]){
                 st.pop();
             }
-            if(st.empty()){
-                NSE.add(-1);
-            }else{
-                NSE.add(st.peek());
-            }
+            NSE.add(st.empty() ? -1 : st.peek());
+
             st.push(arr[i]);
         }
         //reverse list
